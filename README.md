@@ -4,34 +4,34 @@
 - 063-231-2642
 - siwapun.si@gmail.com
 
-## Summary
+# Summary
 I'm a software engineer who focus on contributing high code quality with well unit/integration tested. I also care software development operation process including continuous integration flow, agile development, environtment & git flow.
 
-## Highlight
-#### Architecture
+# Highlight
+### Architecture
 - Microservice & Service Discovery
 - Service Oriented Architecture& Enterprise Integration Application
 
-#### Programming Convention
+### Programming Convention
 - OOP & Function Programming
 - Reactive Functional Programming (RxJava, RxJS)
 
-#### Programming Languages
+### Programming Languages
 - Java: Netty, Spring Boot, Spring Mvc, Spring Security, Spring Data
 - Javascript: React, Redux, RxJs, Recompose, Rx-Observable, Redux-Fusion
 - PHP: Zend Framework, Doctrine2
 
-## Experience
-#### Carmana Thailand: Software Engineer, September 2017 to present 
+# Experience
+### Carmana Thailand: Software Engineer, September 2017 to present 
 - [Project] Direct sales
     - In charged of frontend development using ReactJs and related stuff
     
-#### Allianz Technology: Java Developer, December 2016 to September 2017
+### Allianz Technology: Java Developer, December 2016 to September 2017
 - [Project] Allianz Discover
     - [Backend Development Only] An mobile application for agency to do insurance stuff.
     - [Technology Stack] Spring Boot, Spring Data, RxJava
     
-#### Prior Solution: Senior Java Developer, December 2013 to Nov 2016
+### Prior Solution: Senior Java Developer, December 2013 to Nov 2016
 - [Project] Merchant Management System
     - Provide back office system to manage workflow for krungsri customers to apply their credit
 card reader.
@@ -58,5 +58,5 @@ transactions into Oracle GL.
 ### General Electronic Commerces and Services: Java Developer, November 2012
 - Refactor payment gateway messeaging with Observer Design Pattern 
 
-## Education
+# Education
 - Bachelor degree of Information Technology, KMITL 2008-2012
