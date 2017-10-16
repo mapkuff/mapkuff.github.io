@@ -11,9 +11,11 @@ I'm a software engineer who focus on contributing high code quality with well un
 #### Architecutre
 - Microservice & Service Discovery
 - Service Oriented Architecture& Enterprise Integration Application
+
 #### Programming COnvention
 - OOP & Function Programming
 - Reactive Functional Programming (RxJava, RxJS)
+
 #### Programming Languages
 - Java: Spring Boot, Spring Mvc, Spring Security, Spring Data
 - Javascript: React, Redux, RxJs, Recompose, Rx-Observable, Redux-Fusion
@@ -49,6 +51,12 @@ transactions into Oracle GL.
     - Provide Routing Configuration using withlist to allow only configured route to access resources.
     - Provide authentication Workflow for mobile application
     - Technology Stack: Spring MVC, Spring Data, Netty, Angular1
+
+### Tech Terrain: Outsource C# Developer, April 2013 to Juyly 2013
+- [Project] Electronic Tablet Managemment System
+
+### General Electronic Commerces and Services: Java Developer, November 2012
+- Refactor payment gateway messeaging with Observer Design Pattern 
 
 ## Education
 - Bachelor degree of Information Technology, KMITL 2008-2012
