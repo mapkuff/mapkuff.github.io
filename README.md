@@ -12,12 +12,12 @@ I'm a software engineer who focus on contributing high code quality with well un
 - Microservice & Service Discovery
 - Service Oriented Architecture& Enterprise Integration Application
 
-#### Programming COnvention
+#### Programming Convention
 - OOP & Function Programming
 - Reactive Functional Programming (RxJava, RxJS)
 
 #### Programming Languages
-- Java: Spring Boot, Spring Mvc, Spring Security, Spring Data
+- Java: Netty, Spring Boot, Spring Mvc, Spring Security, Spring Data
 - Javascript: React, Redux, RxJs, Recompose, Rx-Observable, Redux-Fusion
 - PHP: Zend Framework, Doctrine2
 
