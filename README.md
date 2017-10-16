@@ -1,37 +1,35 @@
 
-## Mr. Siwapun Siwaporn
-- 29 years old
-- Software Engineer @ Carmana
-- Bachelor degree of Information Technology, KMITL 2008-2012
-- 5 years experienced in Java Developer
+# Mr. Siwapun Siwaporn
 - https://github.com/mapkuff
 - 063-231-2642
 - siwapun.si@gmail.com
 
-## Skill List
-- Spring (Boot, Data and etc.)
-- RxJava
-- Solid on OOP and Design Pattern
-- Currently love functional programming
-- Well unit tested
-- Also Frontend skill (React, rxjs)
-- Interested in scala and clojure( and clojurescript also)
+## Summary
+I'm a software engineer who focus on contributing high code quality with well unit/integration tested. I also care software development operation process including continuous integration flow, agile development, environtment & git flow.
+
+## Highlight
+#### Architecutre
+- Microservice & Service Discovery
+- Service Oriented Architecture& Enterprise Integration Application
+#### Programming COnvention
+- OOP & Function Programming
+- Reactive Functional Programming (RxJava, RxJS)
+#### Programming Languages
+- Java: Spring Boot, Spring Mvc, Spring Security, Spring Data
+- Javascript: React, Redux, RxJs, Recompose, Rx-Observable, Redux-Fusion
+- PHP: Zend Framework, Doctrine2
 
 ## Experience
-#### Carmana Thailand
-- Software Engineer
-- September 2017 to present
+#### Carmana Thailand: Software Engineer, September 2017 to present 
 - [Project] Direct sales
     - In charged of frontend development using ReactJs and related stuff
-#### Allianz Technology
-- Java Developer
-- December 2016 to September 2017
+    
+#### Allianz Technology: Java Developer, December 2016 to September 2017
 - [Project] Allianz Discover
     - [Backend Development Only] An mobile application for agency to do insurance stuff.
-    - [Technology Stack] Spring Boot, Spring Data, RxJava2
-#### Prior Solution
-- Mid Java Developer - Senior Java Developer
-- December 2013 to Nov 2016
+    - [Technology Stack] Spring Boot, Spring Data, RxJava
+    
+#### Prior Solution: Senior Java Developer, December 2013 to Nov 2016
 - [Project] Merchant Management System
     - Provide back office system to manage workflow for krungsri customers to apply their credit
 card reader.
