@@ -8,7 +8,7 @@
 I'm a software engineer who focus on contributing high code quality with well unit/integration tested. I also care software development operation process including continuous integration flow, agile development, environtment & git flow.
 
 ## Highlight
-#### Architecutre
+#### Architecture
 - Microservice & Service Discovery
 - Service Oriented Architecture& Enterprise Integration Application
 
