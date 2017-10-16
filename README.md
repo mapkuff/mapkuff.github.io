@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mapkuff/mapkuff.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Mr. Siwapun Siwaporn
+- 29 years old
+- Software Engineer @ Carmana
+- Bachelor degree of Information Technology, KMITL 2008-2012
+- 5 years experienced in Java Developer
+- https://github.com/mapkuff
+- 063-231-2642
+- siwapun.si@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skill List
+- Spring (Boot, Data and etc.)
+- RxJava
+- Solid on OOP and Design Pattern
+- Currently love functional programming
+- Well unit tested
+- Also Frontend skill (React, rxjs)
+- Interested in scala and clojure( and clojurescript also)
 
-### Markdown
+## Experience
+#### Carmana Thailand
+- Software Engineer
+- September 2017 to present
+- [Project] Direct sales
+    - In charged of frontend development using ReactJs and related stuff
+#### Allianz Technology
+- Java Developer
+- December 2016 to September 2017
+- [Project] Allianz Discover
+    - [Backend Development Only] An mobile application for agency to do insurance stuff.
+    - [Technology Stack] Spring Boot, Spring Data, RxJava2
+#### Prior Solution
+- Mid Java Developer - Senior Java Developer
+- December 2013 to Nov 2016
+- [Project] Merchant Management System
+    - Provide back office system to manage workflow for krungsri customers to apply their credit
+card reader.
+    - Technology Stack: Strut2, Spring, Hibernate
+- [Project] Saleforce
+    - Provide saleforce CRM for sale to track and trace for their customers.
+    - Technology Stack: Strut2, Spring, Hibernate
+- [Project] E-Service
+    - Add virtual credit card system to krungsri online.
+    - Technology Stack: EJB2, Soap Web Service
+- [Project] GL Management System
+    - Description: provide transaction reviewing and transaction manipulation before	   commit
+transactions into Oracle GL.
+    - Technology Stack: Servlet
+- [Project] Mobile Authentication Platform
+    - Provide TokenBased Authentication using JWT and integrate with IAM Authentication
+    - Provide Routing Configuration using withlist to allow only configured route to access resources.
+    - Provide authentication Workflow for mobile application
+    - Technology Stack: Spring MVC, Spring Data, Netty, Angular1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mapkuff/mapkuff.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Education
+- Bachelor degree of Information Technology, KMITL 2008-2012
