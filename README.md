@@ -1,8 +1,6 @@
 
 # Mr. Siwapun Siwaporn
-- https://github.com/mapkuff
-- 063-231-2642
-- siwapun.si@gmail.com
+https://github.com/mapkuff | 063-231-2642 | siwapun.si@gmail.com
 
 # Summary
 I'm a software engineer who focus on contributing high code quality with well unit/integration tested. I also care software development operation process including continuous integration flow, agile development, environtment & git flow.
