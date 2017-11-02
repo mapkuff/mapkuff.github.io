@@ -23,40 +23,14 @@ I'm a software engineer who focus on contributing high code quality with well un
 
 # Experience
 ### Carmana Thailand: Software Engineer, September 2017 to present 
-- [Project] Direct sales
-    - In charged of frontend development using ReactJs and related stuff
+Work as a Software Engineer and in charged on both front-end and back-end development using react, recompose, rxjs.
+for the back-end, we use Ruby on Rails.
     
 ### Allianz Technology: Java Developer, December 2016 to September 2017
-- [Project] Allianz Discover
-    - [Backend Development Only] An mobile application for agency to do insurance stuff.
-    - [Technology Stack] Spring Boot, Spring Data, RxJava
+I was a backend developer at Allianz Technology Thailand. We use Java8, RxJava and Spring Boot.
     
 ### Prior Solution: Senior Java Developer, December 2013 to Nov 2016
-- [Project] Merchant Management System
-    - Provide back office system to manage workflow for krungsri customers to apply their credit
-card reader.
-    - Technology Stack: Strut2, Spring, Hibernate
-- [Project] Saleforce
-    - Provide saleforce CRM for sale to track and trace for their customers.
-    - Technology Stack: Strut2, Spring, Hibernate
-- [Project] E-Service
-    - Add virtual credit card system to krungsri online.
-    - Technology Stack: EJB2, Soap Web Service
-- [Project] GL Management System
-    - Description: provide transaction reviewing and transaction manipulation before	   commit
-transactions into Oracle GL.
-    - Technology Stack: Servlet
-- [Project] Mobile Authentication Platform
-    - Provide TokenBased Authentication using JWT and integrate with IAM Authentication
-    - Provide Routing Configuration using withlist to allow only configured route to access resources.
-    - Provide authentication Workflow for mobile application
-    - Technology Stack: Spring MVC, Spring Data, Netty, Angular1
-
-### Tech Terrain: Outsource C# Developer, April 2013 to Juyly 2013
-- [Project] Electronic Tablet Managemment System
-
-### General Electronic Commerces and Services: Java Developer, November 2012
-- Refactor payment gateway messeaging with Observer Design Pattern 
+I was a senior java developer at Prior Solution. Here I had a chance to use vareity of technology like spring, strut, EJB, Oracle Service Bus and Netty.
 
 # Education
 - Bachelor degree of Information Technology, KMITL 2008-2012
