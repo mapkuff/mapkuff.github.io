@@ -32,5 +32,11 @@ I was a backend developer at Allianz Technology Thailand. We use Java8, RxJava a
 ### Prior Solution: Senior Java Developer, December 2013 to Nov 2016
 I was a senior java developer at Prior Solution. Here I had a chance to use vareity of technology like spring, strut, EJB, Oracle Service Bus and Netty.
 
+### Tech Terrain: Outsource C# Developer, April 2013 to Juyly 2013
+I had a chance to do Asp.net C# for one small project named "Electronic Tablet Managemment System". The company owner is my friend and he did need some developer to help him for a short period.
+
+### General Electronic Commerces and Services: Java Developer, November 2012 to December 2012
+I worked here for 2 months and I in charded of refactoring payment gateway messeaging using Observer Design Pattern
+
 # Education
 - Bachelor degree of Information Technology, KMITL 2008-2012
