@@ -6,7 +6,7 @@
 I'm a software engineer who focus on contributing high code quality with well unit/integration tested. I also care software development operation process including continuous integration flow, agile development, environtment & git flow.
 
 # Highlight
-- OOP & Function Programming
+- OOP & Functional Programming
 - Reactive Programming (RxJava, RxJS)
 - Java: Netty, Spring Boot, Spring Mvc, Spring Security, Spring Data
 - Javascript: React, Redux, RxJs, Recompose, Rx-Observable, Redux-Fusion
