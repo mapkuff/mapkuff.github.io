@@ -6,21 +6,14 @@
 I'm a software engineer who focus on contributing high code quality with well unit/integration tested. I also care software development operation process including continuous integration flow, agile development, environtment & git flow.
 
 # Highlight
-### Architecture
-- Microservice & Service Discovery
-- Service Oriented Architecture& Enterprise Integration Application
-
-### Programming Convention
 - OOP & Function Programming
-- Reactive Functional Programming (RxJava, RxJS)
-
-### Programming Languages
+- Reactive Programming (RxJava, RxJS)
 - Java: Netty, Spring Boot, Spring Mvc, Spring Security, Spring Data
 - Javascript: React, Redux, RxJs, Recompose, Rx-Observable, Redux-Fusion
 - PHP: Zend Framework, Doctrine2
 
 # Experience
-### Carmana Thailand: Software Engineer, September 2017 to present 
+### Carmana Thailand: Senior Software Engineer, September 2017 to present 
 Work as a Software Engineer and in charged on both front-end and back-end development using react, recompose, rxjs.
 for the back-end, we use Ruby on Rails.
     
