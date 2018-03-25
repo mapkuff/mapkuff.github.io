@@ -14,7 +14,7 @@ I'm a software engineer who focus on contributing high code quality with well un
 
 # Experience
 ### Carmana Thailand: Senior Software Engineer, September 2017 to present 
-Work as a Software Engineer and in charged on both front-end and back-end development using react, recompose, rxjs.
+Work as a Software Engineer and in charged on both front-end and back-end (mostly on frontend) development using react, recompose, rxjs.
 for the back-end, we use Ruby on Rails.
     
 ### Allianz Technology: Java Developer, December 2016 to September 2017
@@ -24,7 +24,7 @@ I was a backend developer at Allianz Technology Thailand. We use Java8, RxJava a
 I was a senior java developer at Prior Solution. Here I had a chance to use vareity of technology like spring, strut, EJB, Oracle Service Bus and Netty.
 
 ### Tech Terrain: Outsource C# Developer, April 2013 to Juyly 2013
-I had a chance to do Asp.net C# for one small project named "Electronic Tablet Managemment System". The company owner is my friend and he did need some developer to help him for a short period.
+I had a chance to do Asp.net C# for one small project named "Electronic Tablet Managemment System". The company owner is my friend and he needed some developer to help him for a short period.
 
 ### General Electronic Commerces and Services: Java Developer, November 2012 to December 2012
 I worked here for 2 months and I in charged of refactoring payment gateway messeaging using Observer Design Pattern
