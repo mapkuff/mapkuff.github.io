@@ -27,7 +27,7 @@ I was a senior java developer at Prior Solution. Here I had a chance to use vare
 I had a chance to do Asp.net C# for one small project named "Electronic Tablet Managemment System". The company owner is my friend and he did need some developer to help him for a short period.
 
 ### General Electronic Commerces and Services: Java Developer, November 2012 to December 2012
-I worked here for 2 months and I in charded of refactoring payment gateway messeaging using Observer Design Pattern
+I worked here for 2 months and I in charged of refactoring payment gateway messeaging using Observer Design Pattern
 
 # Education
 - Bachelor degree of Information Technology, KMITL 2008-2012
