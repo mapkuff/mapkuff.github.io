@@ -3,19 +3,26 @@
 [github/mapkuff](https://github.com/mapkuff) | 063-231-2642 | siwapun.si@gmail.com
 
 # Summary
-I'm a software engineer who focus on contributing high code quality with well unit/integration tested. I also care software development operation process including continuous integration flow, agile development, environtment & git flow.
+I'm a software engineer who focus on contributing high quality code with well unit/integration tested. I also care software development operation process including continuous integration flow, agile development, environtment & git flow.
 
 # Highlight
 - OOP & Functional Programming
-- Reactive Programming (RxJava, RxJS)
-- Java: Netty, Spring Boot, Spring Mvc, Spring Security, Spring Data
+- Reactive Programming (RxJava2, RxJS)
+- Java: Netty, Spring Boot, Spring Mvc, Spring Security, Spring Data, Spring Cloud OAuth2
 - Javascript: React, Redux, RxJs, Recompose, Rx-Observable, Redux-Fusion
-- PHP: Zend Framework, Doctrine2
+- PHP: Zend Framework2, Doctrine2
+
+# PHP Highlight
+I don't do php in my permanent jobs before. but ZF is one of my favorite framework.
+- https://github.com/mapkuff/RbacUserDoctrineOrm this is my Zf2 module. I made this long time ago.
+- 1 PR on ZendCode to fix zend code reflection bug
+- 1 PR on BetterReflection to provide directory scanning reflection
+- http://homedeedee.com/ using ZF2. Modules I used in this project are RdnUpload, HtImgModule, DoctrineOrmModule, ZfcUser and related modules.
 
 # Experience
-### Carmana Thailand: Senior Software Engineer, September 2017 to present 
+### Sunday Ins: Senior Software Engineer, September 2017 to present 
 Work as a Software Engineer and in charged on both front-end and back-end (mostly on frontend) development using react, recompose, rxjs.
-for the back-end, we use Ruby on Rails.
+for the back-end, we use Ruby on Rails, kotlin with spring boot.
     
 ### Allianz Technology: Java Developer, December 2016 to September 2017
 I was a backend developer at Allianz Technology Thailand. We use Java8, RxJava and Spring Boot.
