@@ -38,19 +38,19 @@ Opensource teach me many things and make me know unit testing is our code is man
 - 1 PR on BetterReflection to provide directory scanning reflection
 
 # Recent Projects
-### Authentication Service
+### == Authentication Service ==
 I create Oauth2 authentication service using **Spring Cloud Oauth2** with **kotlin** language. I also design archtecture of authorization flow on how client request to server, server request to server, token restriction.(In a case when client's token leak. It'll be restricted to some of our service).
 
-### Employee Benefit ###
+### == Employee Benefit == ###
 This project use **expressjs**, I created middleware and utils to do authorization and interact with Authentication Service Above. I also implement other things in this project and I can't explain much here.
 
-### Carmana Website ###
+### == Carmana Website == ###
 It's C2C 2nd handed car selling portal website. I'm frontend developer on this project using **React, RxJs, Redux, Redux Observable and Recompose**.
 
-### Direct Sale ###
+### == Direct Sale == ###
 It's B2C motor insurance selling website. I'm frontend developer on this project using **React, RxJs, Redux, Redux Observable and Recompose**.
 
-### Customer Management Module ###
+### == Customer Management Module == ###
 It's a module of Allianz Discovery project. it's a part of CRM module that let agent manage their clients and interact with other modules. I was a backend developer using **Java with Spring Boot**. The interesting things in this project is a restriction of law in some contries don't let us to store customers' sensitive data outside of their contry. So we need to store data in seperate contries. When we fetch or persist data, we need to do it on multiple services. I use **multithreading** to handle this with **RxJava** and an out come performance of this service is awesome.
 
 # Working Experience
