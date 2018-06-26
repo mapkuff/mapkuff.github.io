@@ -1,8 +1,8 @@
 
 # Mr. Siwapun Siwaporn
-## Senior Software Engineer at Sunday Ins.
-#### Java, Javascript (ES6), PHP, Kotlin
-#### Bachelor degree of Information Technology, KMITL 2008-2012
+### Senior Software Engineer at Sunday Ins.
+##### Java, Javascript (ES6), PHP, Kotlin
+##### Bachelor degree of Information Technology, KMITL 2008-2012
 [github](https://github.com/mapkuff) | 063-231-2642 | siwapun.si@gmail.com
 
 # About me
