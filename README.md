@@ -24,7 +24,6 @@
 - DDD and CQRS: I never do this.
 - DevOps: I can't do devops. just have a basic knowledge of it. Btw I can design CI/CD flow to match our needs.
 - Data Science: I can't do data science and don't have any knowlege of it.
-- AI: I can't do AI things. but this is in my wishlit and I'll learn it.
 - Enlish: I'm not fluent in English (Intermediate Level). I just ever work in International Company (Allianz) and use English in my work life. This mean I may sometimes misunderstand in meeting or discussion. The most important thing is my task(for example in JIRA) must contains enough important information for me to do it.
 
 # Opensourcing Experience
