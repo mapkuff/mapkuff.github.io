@@ -23,8 +23,6 @@
 - **Authentication**: Spring Cloud OAuth2
 - **Javascript**: React, Redux, RxJs, Recompose, Rx-Observable, Redux-Fusion
 
-
-
 # My week points
 - **Functional Programming**: I always use functional programming in my code like function composition. Some people don't like this.
 - **Microservice**: I have knowlege of microservice and DDD but never implement fullscale microservice(using service disovery, client side load balance, cloud gateway, event driven architecture with Kafka) In other word, I'm not storng at it.
