@@ -7,8 +7,13 @@
 
 # About me
 - I'm a software engineer who focus on contributing high quality code.
+    - balance DRY and code duplication. code duplication is good if it was put on the right place.
+    - make code as basic as posibile, avoid creating magic things.
+    - don't bring design pattern if it's not needed.
 - I contribute code with at least 90% code coverage including unit testing and integration testing.
-- I also focus on using agile on our development process, this meant at least CI, CD and Automation Testing are mandatory in development process.
+    - I prioritize testing as well as production code.
+    - I some bug leaks, I'll find the way to improve how we write the test.
+- I also focus on using agile on our development process, this mean at least CI, CD and Automation Testing are mandatory in development process.
 - I love functional programing and started using it.
 
 # My Tech Stack
