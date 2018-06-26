@@ -40,7 +40,7 @@ Opensource teach me many things and make me know unit testing is our code is man
 # Working Experience
 ### Sunday Ins: Senior Software Engineer, September 2017 to present 
 Work as a Software Engineer and in charged on both front-end and back-end (mostly on frontend) development using react, recompose, rxjs.
-for the back-end, we use Ruby on Rails, kotlin with spring boot.
+for back-end, we use Ruby on Rails, kotlin with spring boot.
     
 ### Allianz Technology: Java Developer, December 2016 to September 2017
 I was a backend developer at Allianz Technology Thailand. We use Java8, RxJava and Spring Boot.
