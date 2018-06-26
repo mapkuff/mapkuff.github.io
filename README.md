@@ -20,7 +20,7 @@
 
 # My week points
 - Functional Programming: I always use functional programming in my code like function composition. Some people don't like this.
-- Cloud Microservice: I have knowlege of microservice and DDD but never implement fullscale microservice(using service disovery, client side load balance, cloud gateway, event driven architecture with Kafka. In other word, I'm not storng at it)
+- Cloud Microservice: I have knowlege of microservice and DDD but never implement fullscale microservice(using service disovery, client side load balance, cloud gateway, event driven architecture with Kafka) In other word, I'm not storng at it.
 - DDD and CQRS: I never do this.
 - DevOps: I can't do devops. just have a basic knowledge of it. Btw I can design CI/CD flow to match our needs.
 - Data Science: I can't do data science and don't have any knowlege of it.
