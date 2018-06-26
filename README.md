@@ -1,25 +1,30 @@
 
 # Mr. Siwapun Siwaporn
-[github/mapkuff](https://github.com/mapkuff) | 063-231-2642 | siwapun.si@gmail.com
+## Senior Software Engineer at Sunday Ins.
+#### Java, Javascript (ES6), PHP, Kotlin
+#### Bachelor degree of Information Technology, KMITL 2008-2012
+[github](https://github.com/mapkuff) | 063-231-2642 | siwapun.si@gmail.com
 
-# Summary
-I'm a software engineer who focus on contributing high quality code with well unit/integration tested. I also care software development operation process including continuous integration flow, agile development, environtment & git flow.
+# About me
+- I'm a software engineer who focus on contributing high quality code.
+- I contribute code with at least 90% code coverage including unit testing and integration testing.
+- I also focus on using agile on our development process, this meant at least CI, CD and Automation Testing are mandatory in development process.
+- I love functional programing and started using it.
 
-# Highlight
-- OOP & Functional Programming
-- Reactive Programming (RxJava2, RxJS)
-- Java: Netty, Spring Boot, Spring Mvc, Spring Security, Spring Data, Spring Cloud OAuth2
+# My Tech Stack
+- Frameworks: Spring Boot, Express, ZF3, Slim.
+- Reactive Programming: ReactiveX Library like rxjs, RxJava.
+- ORM: JPA like implementations such as Hibernate(in Java), Doctrine2(in PHP)
+- Authentication: Spring Cloud OAuth2
 - Javascript: React, Redux, RxJs, Recompose, Rx-Observable, Redux-Fusion
-- PHP: Zend Framework2, Doctrine2
 
-# PHP Highlight
-I don't do php in my permanent jobs before. but ZF is one of my favorite framework.
-- https://github.com/mapkuff/RbacUserDoctrineOrm this is my Zf2 module. I made this long time ago.
+# Opensource Experience
+Opensource teach me many things and make me know unit testing is our code is mandatory and also teach me CI/CD. I wish one day I'll contribute more in opensource projects. the following is some small thing that I contribute into opensource world.
+
 - 1 PR on ZendCode to fix zend code reflection bug
 - 1 PR on BetterReflection to provide directory scanning reflection
-- http://homedeedee.com/ using ZF2. Modules I used in this project are RdnUpload, HtImgModule, DoctrineOrmModule, ZfcUser and related modules.
 
-# Experience
+# Working Experience
 ### Sunday Ins: Senior Software Engineer, September 2017 to present 
 Work as a Software Engineer and in charged on both front-end and back-end (mostly on frontend) development using react, recompose, rxjs.
 for the back-end, we use Ruby on Rails, kotlin with spring boot.
@@ -35,6 +40,3 @@ I had a chance to do Asp.net C# for one small project named "Electronic Tablet M
 
 ### General Electronic Commerces and Services: Java Developer, November 2012 to December 2012
 I worked here for 2 months and I in charged of refactoring payment gateway messeaging using Observer Design Pattern
-
-# Education
-- Bachelor degree of Information Technology, KMITL 2008-2012
