@@ -24,7 +24,7 @@
 - DDD and CQRS: I never do this.
 - DevOps: I can't do devops. just have a basic knowledge of it. Btw I can design CI/CD flow to match our needs.
 - Data Science: I can't do data science and don't have any knowlege of it.
-- Enlish: I'm not fluent in English (Intermediate Level). I just ever work in International Company (Allianz) and use English in my work life. This mean I may sometimes misunderstand in meeting or discussion. The most important thing is my task(for example in JIRA) must contains enough important information for me to do it.
+- English: I'm not fluent in English (Intermediate Level). I just ever work in International Company (Allianz) and use English in my work life. This mean I may sometimes misunderstand in meeting or discussion. The most important thing is my task(for example in JIRA) must contains enough important information for me to do it.
 
 # Opensourcing Experience
 Opensource teach me many things and make me know unit testing is our code is mandatory and also teach me CI/CD. I wish one day I'll contribute more in opensource projects. the following is some small thing that I contribute into opensource world in 2016.
