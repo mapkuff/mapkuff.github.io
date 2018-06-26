@@ -18,8 +18,17 @@
 - Authentication: Spring Cloud OAuth2
 - Javascript: React, Redux, RxJs, Recompose, Rx-Observable, Redux-Fusion
 
+# My week points
+- Functional Programming: I always use functional programming in my code like function composition. Some people don't like this.
+- Cloud Microservice: I have knowlege of microservice and DDD but never implement fullscale microservice(using service disovery, client side load balance, cloud gateway, event driven architecture with Kafka. In other word, I'm not storng at it)
+- DDD and CQRS: I never do this.
+- DevOps: I can't do devops. just have a basic knowledge of it. Btw I can design CI/CD flow to match our needs.
+- Data Science: I can't do data science and don't have any knowlege of it.
+- AI: I can't do AI things. but this is in my wishlit and I'll learn it.
+- Enlish: I'm not fluent in English (Intermediate Level). I just ever work in International Company (Allianz) and use English in my work life. This mean I may sometimes misunderstand in meeting or discussion. The most important thing is my task(for example in JIRA) must contains enough important information for me to do it.
+
 # Opensourcing Experience
-Opensource teach me many things and make me know unit testing is our code is mandatory and also teach me CI/CD. I wish one day I'll contribute more in opensource projects. the following is some small thing that I contribute into opensource world.
+Opensource teach me many things and make me know unit testing is our code is mandatory and also teach me CI/CD. I wish one day I'll contribute more in opensource projects. the following is some small thing that I contribute into opensource world in 2016.
 
 - 1 PR on ZendCode to fix zend code reflection bug
 - 1 PR on BetterReflection to provide directory scanning reflection
