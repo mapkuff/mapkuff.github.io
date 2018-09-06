@@ -11,7 +11,7 @@
     - Don't bring design pattern if it's not needed.
 - I contribute code with at least 90% code coverage including unit testing and integration testing.
     - I prioritize testing as well as production code.
-    - I some bug leaks, I'll find the way to improve how we write the test.
+    - If some bug leaks, I'll find the way to improve how we write the test.
 - I also focus on using agile on our development process, this mean at least CI, CD and Automation Testing are mandatory in development process.
 - I love functional programming and started using it.
 
@@ -20,28 +20,11 @@
 - **Reactive Programming**: ReactiveX Library like rxjs, RxJava.
 - **ORM**: JPA like implementations such as Hibernate(in Java), Doctrine2(in PHP)
 - **Authentication**: Spring Cloud OAuth2
-- **Javascript**: React, Redux, RxJs, Recompose, Rx-Observable, Redux-Fusion
-
-# My week points
-- **Functional Programming**: I always use functional programming in my code like function composition. Some people don't like this.
-- **Microservice**: I have knowledge of microservice and DDD but never implement full scale microservice(using service disovery, client side load balance, cloud gateway, event driven architecture with Kafka) In other word, I'm not storng at it.
-- **DDD and CQRS**: I never do this.
-- **DevOps**: I can't do devops. Just have a basic knowledge of it. BTW I can design CI/CD flow to match our needs.
-- **Data Science**: I can't do data science and don't have any knowlege of it.
-- **English**: I'm not fluent in English (Intermediate Level). I just ever work in International Company (Allianz) and use English in my work life. This mean I may sometimes misunderstand in meeting or discussion. The most important thing is my task(for example in JIRA) must contains enough important information for me to do it.
-
-# Opensource Experience
-Opensource teach me many things and make me know unit testing is our code is mandatory and also teach me CI/CD. I wish one day I'll contribute more in opensource projects. The following is some small thing that I contribute into opensource world in 2016.
-
-- 1 PR on ZendCode to fix zend code reflection bug
-- 1 PR on BetterReflection to provide directory scanning reflection
+- **Javascript**: React, Redux, RxJs, Recompose, ReduxObservable
 
 # Recent Projects
 ### Authentication Service
-I create Oauth2 authentication service using **Spring Cloud Oauth2** with **kotlin** language. I also design archtecture of authorization flow on how client request to server, server request to server, token restriction.(In a case when client's token leak. It'll be restricted to some of our service).
-
-### Employee Benefit
-This project use **expressjs**, I created middleware and utils to do authorization and interact with Authentication Service Above. I also implement other things in this project and I can't explain much here.
+I create Oauth2 authentication service using **Spring Cloud Oauth2** with **kotlin** language. I also design archtecture of authorization flow.
 
 ### Carmana Website
 It's C2C 2nd handed car selling portal website. I'm frontend developer on this project using **React, RxJs, Redux, Redux Observable and Recompose**.
