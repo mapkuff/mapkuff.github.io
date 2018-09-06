@@ -9,7 +9,7 @@
     - Balance DRY and code duplication. Code duplication is good if it was put on the right place.
     - Make code as basic as posible, avoid creating magic things.
     - Don't bring design pattern if it's not needed.
-- I contribute code with at least 90% code coverage including unit testing and integration testing.
+- I contribute code with at least 80% code coverage including unit testing and integration testing.
     - I prioritize testing as well as production code.
     - If some bug leaks, I'll find the way to improve how we write the test.
 - I also focus on using agile on our development process, this mean at least CI, CD and Automation Testing are mandatory in development process.
