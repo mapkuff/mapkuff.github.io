@@ -14,6 +14,8 @@
     - If some bug leaks, I'll find the way to improve how we write the test.
 - I also focus on using agile on our development process, this mean at least CI, CD and Automation Testing are mandatory in development process.
 - I love functional programming and started using it.
+- Understand microservice with domain driven design.
+- Knowledge of CQRS & Event Sourcing.
 
 # My Tech Stack
 - **Frameworks**: Spring Boot, Express, ZF3, Slim.
